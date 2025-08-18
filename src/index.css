@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional custom styles */
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+/* Hide default slick arrows */
+.slick-prev:before,
+.slick-next:before {
+  display: none !important;
+}
