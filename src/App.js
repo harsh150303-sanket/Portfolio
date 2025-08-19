@@ -66,10 +66,7 @@ function About() {
     <section id="about" className="max-w-4xl mx-auto py-16 px-6 bg-gray-50">
       <h2 className="text-3xl font-bold mb-6 text-center">About Me</h2>
       <p className="text-lg leading-relaxed">
-        I am a B.Tech Agricultural Engineer with expertise in SEO, Social Media
-        Marketing, Ads Management, and Data Visualization. Experienced in
-        developing marketing strategies, technical consulting, and project
-        execution with cross-functional collaboration.
+        As a B.Tech Agricultural Engineer, I leverage a unique blend of technical knowledge and strategic marketing expertise. I specialize in a wide range of digital disciplines, including SEO, social media marketing, ads management, and data visualization. My experience lies in crafting and executing comprehensive marketing strategies, providing technical consulting, and leading collaborative projects to drive tangible results.
       </p>
     </section>
   );
