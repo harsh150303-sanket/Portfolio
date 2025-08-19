@@ -106,6 +106,21 @@ function Experience() {
             <li>Streamlined reporting for audits & reviews</li>
           </ul>
         </Card>
+        <Card title="Executive Assistant to MD" subtitle="Bhoomi Agro Industries | August 2024 - November 2024">
+          <ul className="list-disc ml-5 space-y-1">
+            <li>Acted as a liaison between MD & Sales & Production for daily sales & production updates & occurrences.</li>
+            <li>Organized & facilitated internal events, client meetings, and business gatherings.</li>
+            <li>Supported decision making by conducting background research and preparing briefing materials.</li>
+          </ul>
+        </Card>
+        <Card title="SEO Executive" subtitle="Bhoomi Agro Industries | June 2024-August 2024">
+          <ul className="list-disc ml-5 space-y-1">
+            <li>Created and optimized content for landing pages & product descriptions aligned with the new website upcoming for BHOOMI AGRO.</li>
+            <li>Collaborated with developers and designers to implement SEO friendly site architecture.</li>
+            <li>Ran seasonal and product specific SEO campaigns on different media platforms (Meta ads manager, LinkedIn, Twitter, You tube).</li>
+            <li>Delivered Monthly reports detailing KPIS, traffic growth, ROI.</li>
+          </ul>
+        </Card>
       </div>
     </section>
   );
